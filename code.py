@@ -4,3 +4,4 @@ b=int(input())
 print("aa") print("b")
 print("aa")
 sever
+clien
